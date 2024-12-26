@@ -6,7 +6,7 @@
   </a>
 </p>
 
-> Express.js v5 starter is a boilerplate for building and deploying Express.js applications to Vercel.
+> Express.js v5 starter is a boilerplate for building and deploying Express.js applications to Vercel..
 
 ## 🏠 [Homepage](https://express-starter.productsway.com/api)
 
